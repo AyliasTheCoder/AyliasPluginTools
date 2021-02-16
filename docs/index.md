@@ -1,1 +1,1 @@
-f
+[a relative link](test.md)
