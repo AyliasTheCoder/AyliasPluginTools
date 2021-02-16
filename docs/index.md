@@ -1,1 +1,1 @@
-[a relative link](test.md)
+[Colored Chat](test.md)
