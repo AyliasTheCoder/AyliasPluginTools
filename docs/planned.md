@@ -1,3 +1,5 @@
+[Home](index.md)
+
 - [x] Colored Chat
 
 - [ ] Custom Block/Mob Loot Tables
